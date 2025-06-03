@@ -1,3 +1,4 @@
 Name : Phan Thanh Trường
-Interests: Coding, Design  
-Skill: .......
+ID : 225649
+Interests: Design
+Skill: Reading, Speaking,...
